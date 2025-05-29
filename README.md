@@ -59,4 +59,5 @@ Integrated the backend and frontend for a complete end-to-end sentiment analysis
 ##
 
 #OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/8a541999-711d-4afd-83b7-a857dfcd5b8a)
+![Image](https://github.com/user-attachments/assets/d82801f6-4a39-4ba9-9d75-8a569c497fe1)
